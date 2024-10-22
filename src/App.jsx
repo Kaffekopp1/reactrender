@@ -5,6 +5,7 @@ function App() {
 		<>
 			<h1>Detta är en Fantastisk sida!</h1>
 			<p>Detta är en ändring för manual deploy</p>
+			<p>Detta är en ändring för manual deploy2</p>
 		</>
 	);
 }
